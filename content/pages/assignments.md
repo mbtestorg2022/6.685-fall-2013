@@ -6,19 +6,120 @@ uid: 6ffb13f7-a392-e19a-3527-5c38a5aa7dc1
 
 The following are the assigned problem sets and solutions. Students are encouraged to read the relevant chapters or sections of the [Course Notes]({{< baseurl >}}/pages/course-notes) prior to attempting the problem sets in order to receive a better understanding of the concepts presented.
 
-| ASSIGNMENTS | SOLUTIONS |
-| --- | --- |
-| [Problem set 1 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps01) | [Solutions to problem set 1 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps01ans) |
-| [Problem set 2 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps02) | [Solutions to problem set 2 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps02ans) |
-| [Problem set 3 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps03) | [Solutions to problem set 3 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps03ans) |
-| [Problem set 4 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps04) | [Solutions to problem set 4 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps04ans) |
-| [Problem set 5 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps05) | [Solutions to problem set 5 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps05ans) |
-| [Problem set 6 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps06) | [Solutions to problem set 6 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps06ans) |
-| [Problem set 7 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps07) | [Solutions to problem set 7 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps07ans) |
-| [Problem set 8 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps08) | [Solutions to problem set 8 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps08ans) |
-| [Problem set 9 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps09) | [Solutions to problem set 9 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps09ans) |
-| [Problem set 10 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps10) | [Solutions to problem set 10 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps10ans) |
-| [Problem set 11 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps11) | [Solutions to problem set 11 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps11ans) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 1 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps01)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to problem set 1 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps01ans)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 2 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps02)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to problem set 2 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps02ans)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 3 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps03)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to problem set 3 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps03ans)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 4 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps04)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to problem set 4 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps04ans)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 5 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps05)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to problem set 5 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps05ans)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 6 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps06)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to problem set 6 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps06ans)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 7 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps07)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to problem set 7 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps07ans)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 8 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps08)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to problem set 8 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps08ans)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 9 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps09)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to problem set 9 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps09ans)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 10 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps10)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to problem set 10 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps10ans)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 11 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps11)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to problem set 11 (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps11ans)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For problem set 3, refer to the [excerpted steel data (PDF)]({{< baseurl >}}/resources/mit6_685f13_ps03data). Courtesy of the Electric Motor Education and Research Foundation. Used with permission.
 
