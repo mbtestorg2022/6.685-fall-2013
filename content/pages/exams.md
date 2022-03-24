@@ -24,7 +24,7 @@ SOLUTIONS
 [Quiz 1 (PDF)]({{< baseurl >}}/resources/mit6_685f13_quiz01)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Solutions to quiz 1 (PDF)]({{< baseurl >}}/resources/mit6_685f13_quiz01ans)
+[Solutions to quiz 1 (PDF)]({{< baseurl >}}/resources/mit6_685f13_quiz01ans)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +33,7 @@ SOLUTIONS
 [Quiz 2 (PDF)]({{< baseurl >}}/resources/mit6_685f13_quiz02)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Solutions to quiz 2 (PDF)]({{< baseurl >}}/resources/mit6_685f13_quiz02ans)
+[Solutions to quiz 2 (PDF)]({{< baseurl >}}/resources/mit6_685f13_quiz02ans)
 {{< tdclose >}}
 
 {{< trclose >}}
