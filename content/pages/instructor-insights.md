@@ -25,14 +25,14 @@ Course Outcomes
 
 ### Possibilities for Further Study/Careers
 
-This course is pretty much a terminal subject, as there is no more advanced material in this area taught at MIT. Students might also take [_6.641 Electromagnetic Fields, Forces, and Motion_](/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2009/), or courses in heat transfer and structures. Many students who take this course do graduate work in machines, and some pursue PhD’s in the topic. There is a very strong demand for people with a background in this area, so industrial jobs are plentiful for students as well.
+This course is pretty much a terminal subject, as there is no more advanced material in this area taught at MIT. Students might also take [_6.641 Electromagnetic Fields, Forces, and Motion_](/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2009), or courses in heat transfer and structures. Many students who take this course do graduate work in machines, and some pursue PhD’s in the topic. There is a very strong demand for people with a background in this area, so industrial jobs are plentiful for students as well.
 
 Curriculum Information
 ----------------------
 
 ### Prerequisites
 
-[_6.061/6.690 Introduction to Electric Power Systems_](/courses/6-061-introduction-to-electric-power-systems-spring-2011/); or permission of the instructor.
+[_6.061/6.690 Introduction to Electric Power Systems_](/courses/6-061-introduction-to-electric-power-systems-spring-2011); or permission of the instructor.
 
 ### Requirements Satisfied
 
@@ -75,7 +75,7 @@ Most of the students were PhD candidates in electrical engineering, and a small 
 
 ### Typical Student Background
 
-Typically, a student should have some background in electromechanics ([_6.061 Introduction to Electric Power Systems_](/courses/6-061-introduction-to-electric-power-systems-spring-2011/)) and circuits ([_6.002 Circuits and Electronics_](/courses/6-002-circuits-and-electronics-spring-2007/) and [_6.003 Signals and Systems_](/courses/6-003-signals-and-systems-fall-2011/)).
+Typically, a student should have some background in electromechanics ([_6.061 Introduction to Electric Power Systems_](/courses/6-061-introduction-to-electric-power-systems-spring-2011)) and circuits ([_6.002 Circuits and Electronics_](/courses/6-002-circuits-and-electronics-spring-2007) and [_6.003 Signals and Systems_](/courses/6-003-signals-and-systems-fall-2011)).
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
